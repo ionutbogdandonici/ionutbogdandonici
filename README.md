@@ -18,7 +18,7 @@ I love to explore, learn, and—whenever I can—explain this fascinating world 
 
 > Still learning... because growth never stops!
 
-- 👨‍💻 Languages: Java, Python, SQL, MongoDB, Neo4J (and some experiments with TypeScript)
+- 👨‍💻 Languages: Java, Python, C, SQL, MongoDB, Neo4J (and some experiments with TypeScript)
 - 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 - 🤖 Machine Learning: Scikit-learn, PyTorch (still exploring)
 - 📦 Other tools: Git, VS Code, Jupyter, PyCharm (bit by bit...)
