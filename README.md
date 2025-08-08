@@ -3,7 +3,7 @@
 [![Visite profilo](https://komarev.com/ghpvc/?username=ionutbogdandonici&label=Visite%20profilo&style=flat)](https://github.com/USERNAME)
 
 Studente magistrale in **Informatica** (IA, Analisi dei Dati, Data Science).  
-Esploro, imparo e — quando posso — **spiego**: obiettivo lapidario (breve, incisivo) 💡
+Esploro, imparo e — quando posso — **spiego** 💡
 
 ---
 
@@ -23,7 +23,7 @@ Esploro, imparo e — quando posso — **spiego**: obiettivo lapidario (breve, i
 ---
 
 ## 🧪 Progetti
-Tra lavori accademici, esperimenti e prototipi. Alcuni sono **work in progress**: iterativi (a cicli) e perenni (che durano a lungo).
+Tra lavori accademici, esperimenti e prototipi. Alcuni sono **work in progress**: iterativi e perenni.
 
 ---
 
