@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Bogdan
 
-[![Visite profilo](https://komarev.com/ghpvc/?username=USERNAME&label=Visite%20profilo&style=flat)](https://github.com/USERNAME)
+[![Visite profilo](https://komarev.com/ghpvc/?username=ionutbogdandonici&label=Visite%20profilo&style=flat)](https://github.com/USERNAME)
 
 Studente magistrale in **Informatica** (IA, Analisi dei Dati, Data Science).  
 Esploro, imparo e — quando posso — **spiego**: obiettivo lapidario (breve, incisivo) 💡
