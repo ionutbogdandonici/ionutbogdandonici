@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Bogdan
 
-[![Visite profilo](https://komarev.com/ghpvc/?username=ionutbogdandonici&label=Visite%20profilo&style=flat)](https://github.com/ionutbogdandonici)
+[![Visite profilo dal 9 Agosto 2025](https://komarev.com/ghpvc/?username=ionutbogdandonici&label=Visite%20profilo&style=flat)](https://github.com/ionutbogdandonici)
 
 
 Studente magistrale in **Informatica** (IA, Analisi dei Dati, Data Science).  
