@@ -1,48 +1,38 @@
-# 👋 Hi there! I'm Bogdan
+# 👋 Ciao, sono Bogdan
 
-Welcome to my GitHub profile!  
-I'm a Master's student in **Computer Science – Artificial Intelligence, Data Analysis, and Data Science**.  
-I love to explore, learn, and—whenever I can—explain this fascinating world of code, data, and insight 💡
+[![Visite profilo](https://komarev.com/ghpvc/?username=USERNAME&label=Visite%20profilo&style=flat)](https://github.com/USERNAME)
 
----
-
-## 🚀 What I'm Working On
-
-- 📚 Studying **AI, Machine Learning, Data Science**, and everything that lies between code and the real world.
-- 🧠 Currently developing an educational course to explain complex ideas in simple terms. If that sounds interesting, **stay tuned**!
-- ✍️ I enjoy writing, sharing ideas, and diving into personal projects.
+Studente magistrale in **Informatica** (IA, Analisi dei Dati, Data Science).  
+Esploro, imparo e — quando posso — **spiego**: obiettivo lapidario (breve, incisivo) 💡
 
 ---
 
-## 🛠️ Skills & Tools
-
-> Still learning... because growth never stops!
-
-- 👨‍💻 Languages: Java, Python, C, SQL, MongoDB, Neo4J (and some experiments with TypeScript)
-- 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 Machine Learning: Scikit-learn, PyTorch (still exploring)
-- 📦 Other tools: Git, VS Code, Jupyter, PyCharm (bit by bit...)
+## 🚀 In questo momento
+- 📚 Approfondisco **AI/Machine Learning/Data Science** tra codice e realtà.
+- 🧠 Progetto un **corso divulgativo** per chiarire concetti complessi in modo semplice.
+- ✍️ Scrivo e coltivo progetti personali.
 
 ---
 
-## 🧪 Projects
-
-You'll find academic work, personal experiments, and curious prototypes here.  
-Not everything is polished, but every repo is a step in my journey.
-
-🧭 Some projects are work-in-progress (and maybe always will be).
-
----
-
-## 📬 Get in Touch / Follow Me
-
-- 🌐 [LinkedIn](www.linkedin.com/in/bogdan-donici) – where I share thoughts and updates
-- 💡 **If you're as curious and eager to learn as I am, let's connect!**
+## 🛠️ Competenze
+**Linguaggi** · `Java` · `Python` · `C` · `SQL` · `MongoDB` · `Neo4J` · *(qualche TypeScript)*  
+**Analisi Dati** · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`  
+**ML** · `Scikit-learn` · `PyTorch` *(in esplorazione)*  
+**Strumenti** · `Git` · `VS Code` · `Jupyter` · `PyCharm`
 
 ---
 
-> 🧠 “I don’t have all the answers. But I know how to ask the right questions.”
+## 🧪 Progetti
+Tra lavori accademici, esperimenti e prototipi. Alcuni sono **work in progress**: iterativi (a cicli) e perenni (che durano a lungo).
 
 ---
 
-⭐️ If you like a project, drop a ⭐ – or even better: tell me what you think!
+## 📬 Contatti
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bogdan-donici)
+- 💡 Se condividi curiosità e voglia di imparare, **connettiamoci**!
+
+---
+
+> 🧠 “Non ho tutte le risposte, ma so come fare le domande giuste.”
+
+⭐️ Se qualcosa ti piace, lascia una **stellina** o un feedback!
