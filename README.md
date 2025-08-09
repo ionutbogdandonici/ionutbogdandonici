@@ -10,7 +10,6 @@ Esploro, imparo e — quando posso — **spiego** 💡
 
 ## 🚀 In questo momento
 - 📚 Approfondisco **AI/Machine Learning/Data Science** tra codice e realtà.
-- 🧠 Progetto un **corso divulgativo** per chiarire concetti complessi in modo semplice.
 - ✍️ Scrivo e coltivo progetti personali.
 
 ---
