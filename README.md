@@ -15,9 +15,9 @@ Esploro, imparo e — quando posso — **spiego** 💡
 ---
 
 ## 🛠️ Competenze
-**Linguaggi** · `Java` · `Python` · `C` · `SQL` · `MongoDB` · `Neo4J` · *(qualche TypeScript)*  
+**Linguaggi** · `Java` · `Python` · `C` · `SQL` · `MongoDB` · `Neo4J` · 
 **Analisi Dati** · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`  
-**ML** · `Scikit-learn` · `PyTorch` *(in esplorazione)*  
+**ML** · `Scikit-learn` · `PyTorch`  
 **Strumenti** · `Git` · `VS Code` · `Jupyter` · `PyCharm`
 
 ---
