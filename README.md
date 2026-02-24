@@ -18,7 +18,7 @@ Curious by nature, methodical by necessity.
 
 ---
 
-## �� In questo momento · Currently
+## 🎯 In questo momento · Currently
 
 - 📚 **IT** · Approfondisco AI/Machine Learning/Data Science tra codice e realtà
 - 📚 **EN** · Deepening AI / Machine Learning / Data Science — between theory and practice
