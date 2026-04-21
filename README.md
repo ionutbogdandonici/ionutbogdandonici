@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Bogdan · Hi, I'm Bogdan
+# 👋 Ciao, sono Bogdan!
 
 [![Visite profilo](https://komarev.com/ghpvc/?username=ionutbogdandonici&label=Profile%20views%20since%20Aug%209%2C%202025&style=flat&color=blue)](https://github.com/ionutbogdandonici)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bogdan--donici-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/bogdan-donici)
@@ -21,4 +21,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-> 🧠 Sono curioso. 
+Sono una persona curiosa 🧠
